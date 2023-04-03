@@ -1,16 +1,12 @@
 # web_view_test
 
-A new Flutter project.
+An experimental Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about combining the webview_flutter with the trending view in flutter app
 
-A few resources to get you started if this is your first Flutter project:
+The resources used in this is project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [webview_flutter 4.0.7](https://pub.dev/packages/webview_flutter)
+- [TradingView Chart Widget](https://www.tradingview.com/widget/advanced-chart/)
